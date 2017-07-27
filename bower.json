@@ -1,0 +1,24 @@
+{
+  "name": "colorpicker-joe",
+  "description": "Scaleable color picker",
+  "main": ["./dist/colorjoe.js","./css/colorjoe.css"],
+  "authors": [
+    "[(Juho Vepsalainen <bebraw@gmail.com>)",
+    "ahsan.emallates@gmail.com]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "colour",
+    "requirejs",
+    "amd"
+  ],
+  "homepage": "https://github.com/Ahsanmughal/colorjoe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
